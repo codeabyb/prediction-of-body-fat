@@ -5,4 +5,4 @@ pydeck
 streamlit
 joblib
 lightgbm==2.3.1
-sklearn
+scikit-learn
